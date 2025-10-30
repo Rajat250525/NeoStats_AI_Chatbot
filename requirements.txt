@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchainhub
+faiss-cpu
+requests
+python-dotenv
+PyPDF2
+tavily-python
+sentence-transformers
