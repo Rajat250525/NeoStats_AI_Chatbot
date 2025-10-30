@@ -9,3 +9,5 @@ python-dotenv
 PyPDF2
 tavily-python
 sentence-transformers
+langchain-text-splitters
+
